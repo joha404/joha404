@@ -3,16 +3,13 @@
 
 ## 🔧 Tech Stack I'm Passionate About:
 
-### HTML5, CSS3, JavaScript (ES6+)
-– The building blocks of the web.
+HTML5, CSS3, JavaScript (ES6+) – The building blocks of the web.
 
 Vue.js & Nuxt js – Creating dynamic and engaging web apps.
 
 Bootstrap & Tailwind CSS – Making designs responsive and visually consistent.
 
 APIs & JSON – Connecting the dots between front-end and back-end.
-This is <span style="font-weight: 500;">50% bold</span> text.
-
 
 ## 🎯 My Core Skills:
 
