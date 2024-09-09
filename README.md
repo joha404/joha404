@@ -3,7 +3,8 @@
 
 ## 🔧 Tech Stack I'm Passionate About:
 
-HTML5, CSS3, JavaScript (ES6+) – The building blocks of the web.
+### HTML5, CSS3, JavaScript (ES6+)
+– The building blocks of the web.
 
 Vue.js & Nuxt js – Creating dynamic and engaging web apps.
 
