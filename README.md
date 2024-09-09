@@ -3,18 +3,18 @@
 
 ## 🔧 Tech Stack I'm Passionate About:
 
-HTML5, CSS3, JavaScript (ES6+) – The building blocks of the web
-Vue.js & Nuxt js – Creating dynamic and engaging web apps
-Bootstrap & Tailwind CSS – Making designs responsive and visually consistent
-APIs & JSON – Connecting the dots between front-end and back-end
+HTML5, CSS3, JavaScript (ES6+) – The building blocks of the web.
+Vue.js & Nuxt js – Creating dynamic and engaging web apps.
+Bootstrap & Tailwind CSS – Making designs responsive and visually consistent.
+APIs & JSON – Connecting the dots between front-end and back-end.
 
 
 ## 🎯 My Core Skills:
 
-Clean, modular code that scales and adapts
-Responsive, mobile-first design for seamless experiences on any device
-Interactive UIs with smooth animations that enhance user engagement
-Performance optimization and adhering to best coding practices
+Clean, modular code that scales and adapts.
+Responsive, mobile-first design for seamless experiences on any device.
+Interactive UIs with smooth animations that enhance user engagement.
+Performance optimization and adhering to best coding practices.
 
 
 ## 💻 Current Endeavors:
