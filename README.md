@@ -64,7 +64,7 @@
 
 ## 💻 Full Stack Expertise
 
-I'm a **Full-Stack Developer**, creating responsive web applications with **React.js, Next.js, Node.js, Prisma, PostgreSQL, and MongoDB**.  
+I'm a **Full-Stack Developer**, creating responsive web applications with **React.js, Next.js, Node.js,Vue js, Nuxt js, Prisma, PostgreSQL, and MongoDB**.  
 I prioritize **clean, efficient code** and constantly sharpen my skills in modern web technologies.
 
 ## 🌐 Where to find me
