@@ -27,7 +27,7 @@
       <a href="#technologies">
         <img src="./img/redux.png" width="48" height="48" alt="Redux" />
       </a>
-      <br>Redux
+      <br>Redux Toolkit 
     </td>
     <td align="center" width="96">
       <a href="#technologies">
