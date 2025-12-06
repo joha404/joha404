@@ -39,13 +39,13 @@
       <a href="#technologies">
         <img src="./img/nextjs.webp" width="48" height="48" alt="Next Js" />
       </a>
-      <br>Next JS, Nuxt JS
+      <br>Next JS, Nuxt Js
     </td>
     <td align="center" width="96">
       <a href="#technologies">
         <img src="./img/prisma-final.png" width="48" height="48" alt="Prisma" />
       </a>
-      <br>Prisma
+      <br>Prisma ORM
     </td>
     <td align="center" width="96">
       <a href="#technologies">
