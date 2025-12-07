@@ -15,7 +15,7 @@
       <a href="#technologies">
         <img src="./img/tailwind.png" width="48" height="48" alt="TailwindCSS" />
       </a>
-      <br>Tailwind CSS
+      <br>Tailwind
     </td>
     <td align="center" width="96">
       <a href="#technologies">
@@ -39,7 +39,7 @@
       <a href="#technologies">
         <img src="./img/nextjs.webp" width="48" height="48" alt="Next Js" />
       </a>
-      <br>Next JS, Nuxt Js
+      <br>Next JS, Nuxt JS
     </td>
     <td align="center" width="96">
       <a href="#technologies">
@@ -64,7 +64,7 @@
 
 ## 💻 Full Stack Expertise
 
-I'm a **Full-Stack Developer**, creating responsive web applications with **React.js, Next.js, Node.js,Vue js, Nuxt js, Prisma, PostgreSQL, and MongoDB**.  
+I'm a **Full-Stack Developer**, creating responsive web applications with **React.js, Next.js, Node.js, Vue.js, Nuxt.js, Prisma, PostgreSQL, and MongoDB**.  
 I prioritize **clean, efficient code** and constantly sharpen my skills in modern web technologies.
 
 ## 🌐 Where to find me
