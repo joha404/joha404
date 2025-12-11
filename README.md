@@ -15,13 +15,13 @@
       <a href="#technologies">
         <img src="./img/tailwind.png" width="48" height="48" alt="TailwindCSS" />
       </a>
-      <br>Tailwind
+      <br>Tailwind css
     </td>
     <td align="center" width="96">
       <a href="#technologies">
         <img src="./img/reactjs.webp" width="48" height="48" alt="React" />
       </a>
-      <br>React Js
+      <br>React 
     </td>
     <td align="center" width="96">
       <a href="#technologies">
