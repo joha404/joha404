@@ -15,7 +15,7 @@
       <a href="#technologies">
         <img src="./img/tailwind.png" width="48" height="48" alt="TailwindCSS" />
       </a>
-      <br>Tailwind css
+      <br>Tailwind CSS
     </td>
     <td align="center" width="96">
       <a href="#technologies">
@@ -45,7 +45,7 @@
       <a href="#technologies">
         <img src="./img/prisma-final.png" width="48" height="48" alt="Prisma" />
       </a>
-      <br>Prisma ORM
+      <br>Prisma 
     </td>
     <td align="center" width="96">
       <a href="#technologies">
