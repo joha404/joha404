@@ -15,7 +15,7 @@
       <a href="#technologies">
         <img src="./img/tailwind.png" width="48" height="48" alt="TailwindCSS" />
       </a>
-      <br>Tailwind CSS
+      <br>Tailwind
     </td>
     <td align="center" width="96">
       <a href="#technologies">
@@ -39,7 +39,7 @@
       <a href="#technologies">
         <img src="./img/nextjs.webp" width="48" height="48" alt="Next Js" />
       </a>
-      <br>Next JS, Nuxt JS
+      <br>Next JS
     </td>
     <td align="center" width="96">
       <a href="#technologies">
