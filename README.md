@@ -33,7 +33,7 @@
       <a href="#technologies">
         <img src="./img/nodejs-white.png" width="48" height="48" alt="Node JS" />
       </a>
-      <br>Node 
+      <br>Node Js
     </td>
     <td align="center" width="96">
       <a href="#technologies">
