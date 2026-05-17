@@ -15,7 +15,7 @@
       <a href="#technologies">
         <img src="./img/tailwind.png" width="48" height="48" alt="TailwindCSS" />
       </a>
-      <br>Tailwind
+      <br>Tailwind 
     </td>
     <td align="center" width="96">
       <a href="#technologies">
