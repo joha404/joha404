@@ -39,7 +39,7 @@
       <a href="#technologies">
         <img src="./img/nextjs.webp" width="48" height="48" alt="Next Js" />
       </a>
-      <br>Next
+      <br>Next 
     </td>
     <td align="center" width="96">
       <a href="#technologies">
