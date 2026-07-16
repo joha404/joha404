@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 <img src="./img/banner-gradient.png" alt="Md Shamsuzzuha" />
 
-## ⚡ Technologies  I work with 
+## ⚡ Technologies  I work with  
 
 <table>
   <tr>
