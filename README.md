@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 <img src="./img/banner-gradient.png" alt="Md Shamsuzzuha" />
 
-## ⚡ Technologies  I work with
+## ⚡ Technologies  I work with 
 
 <table>
   <tr>
@@ -9,13 +9,13 @@
       <a href="#technologies">
         <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>TypeScript 
+      <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#technologies"> 
         <img src="./img/tailwind.png" width="48" height="48" alt="TailwindCSS" />
       </a>
-      <br>Tailwind
+      <br>Tailwind css
     </td>
     <td align="center" width="96">
       <a href="#technologies">
