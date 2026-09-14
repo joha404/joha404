@@ -51,7 +51,7 @@
       <a href="#technologies">
         <img src="./img/sql2.png" width="48" height="48" alt="PostgreSQL" />
       </a>
-      <br>PostgreSQL
+      <br>PostgreSQL 
     </td>
     <td align="center" width="96">
       <a href="#technologies">
