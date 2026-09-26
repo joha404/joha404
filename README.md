@@ -9,7 +9,7 @@
       <a href="#technologies">
         <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>TypeScript
+      <br>TypeScript 
     </td>
     <td align="center" width="96">
       <a href="#technologies"> 
